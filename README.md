@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wegoare&label=Profile%20views&color=0e75b6&style=flat" alt="wegoare" /> </p>
 
-- 🔭 I’m currently working on **Crop Yield prediction**
+- 🔭 I’m currently working at **Stratacent**
 
-- 🌱 I’m currently learning **Distributed Systems ,DevOps and ci/cd automations**
+- 🌱 I’m currently learning **System Design, Scalability, and DevOps**
 
 - 👯 I’m looking to collaborate on **Backend related projects**
 
