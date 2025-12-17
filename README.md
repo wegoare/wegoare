@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mayank-gurjar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
+  <a href="[https://www.linkedin.com/in/mayank-gurjar/](https://www.linkedin.com/in/mayank-gurjar-684b45237/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" alt="linkedin" height="30" width="30" /></a>
   <a href="https://github.com/wegoare" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="github" height="30" width="30" /></a>
-  <a href="https://stackoverflow.com/users/yourid" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/stackoverflow.svg" alt="stackoverflow" height="30" width="30" /></a>
+  
 </p>
 
 ---
