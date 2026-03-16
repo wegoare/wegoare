@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=wegoare&label=Profile%20views&color=0e75b6&style=flat" alt="wegoare" /> 
 </p>
 
-* 💻 I’m currently working as a **Full Stack Developer at Stratacent**
+* 💻 I’m currently working as a **Associate at Stratacent**
 
 * 🚀 I’m currently building and learning **Scalable Full Stack Applications using React, Next.js, Node.js, TypeScript, and AI integrations**
 
